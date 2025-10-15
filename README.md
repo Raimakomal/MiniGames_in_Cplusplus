@@ -1,4 +1,4 @@
-# 🕹️ R4F4Y04 Mini Games (C++)
+# 🕹️ RAIMA25 Mini Games (C++)
 
 Welcome to **RAIMA25 Mini Games** — a fun terminal-based project that includes:
 
